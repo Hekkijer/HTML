@@ -1,0 +1,252 @@
+a, p, h1, h2, h3, ul, button {
+	font-family: Avantgarde, TeX Gyre Adventor,
+ 	 URW Gothic L, monospace;
+}
+
+h1 {
+ 	color: #fff;
+ 	margin-left: 335px;
+ 	margin-bottom: 0px;
+ 	letter-spacing: 3px;
+ 	font-weight: 100;
+ 	font-size: 48px;
+ 	margin-top: 0px;
+}
+
+h2 {
+ 	font-family: Avantgarde, TeX Gyre Adventor,
+ 	 URW Gothic L, monospace;
+ 	font-size: 35px;
+ 	font-weight: 100;
+}
+
+a {
+ 	color: #BAB828;
+}
+
+p {
+ 	color: #817C7E;
+}
+
+header {
+	background-color: #483D8B;
+	border-top:   #483D8B solid 13px; 
+	border-bottom:   #483D8B solid 9px;
+}
+
+header p {
+ 	margin-left: 335px;
+ 	color: #A9A9A9;
+ 	margin-top: 0px;
+}
+
+header li {
+ 	list-style-type: none; 
+ 	text-align: right;
+ 	margin-right: 530px;
+ 	margin-top: 50px;;
+}
+
+header ul {
+ 	display: inline-block;
+ 	list-style-type: none; 
+ 	margin: 0px;
+ 	color: #fff;
+ 	padding-left: 70px;
+}
+
+header ul:hover {
+ 	color: #BAB828;
+}
+
+.container {
+	width: 920px;
+	margin-left: 428px;
+	display: inline-block;
+}
+
+.content {
+	display: inline-block;
+	float: left;
+	width: 630px;
+	padding-right: 20px;
+	margin-top: 34px;
+}
+
+.sidebar {
+	float: right;
+	width: 256px;
+	
+}
+
+.sidebar  h3 {
+ 	color: #4169E1;
+ 	font-family: Avantgarde, TeX Gyre Adventor,
+ 	 URW Gothic L, monospace;
+ 	font-size: 30px;
+ 	font-weight: 100;
+ 	margin-bottom: 15px;
+ 	margin-top: 15px;
+}
+
+.sidebar input {
+ 	width: 124px;
+ 	border: none;
+}
+
+.search {
+ 	background-color: #F1E3E7;
+ 	border: 15px #F1E3E7 solid;
+ 	border-radius: 15px;
+ 	margin-top: 66px;
+}
+
+.sign {
+ 	background-color: #F1E3E7;
+ 	border: 15px #F1E3E7 solid;
+ 	border-radius: 15px;
+ 	margin-top: 56px;
+}
+
+.news {
+ 	background-color: #F1E3E7;
+ 	border: 15px #F1E3E7 solid;
+ 	border-radius: 15px;
+ 	margin-top: 15px;
+ 	font-family: Avantgarde, TeX Gyre Adventor,
+ 	 URW Gothic L, monospace;
+}
+
+.rating {
+ 	background-color: #F1E3E7;
+ 	border: 15px #F1E3E7 solid;
+ 	border-radius: 15px;
+ 	margin-top: 15px;
+ 	font-family: Avantgarde, TeX Gyre Adventor,
+ 	 URW Gothic L, monospace;
+}
+
+.rating li {
+ 	list-style-type: none;
+ 	display: inline-block;
+ 	margin-left: 0px;
+}
+
+.rating ul {
+ 	padding: 0px;
+}
+
+.movie, .show {
+	margin-left: 70px;
+	padding-bottom: 30px;
+}
+
+.main_article {
+ 	max-width: 630px;
+}
+
+.main_article h3 {
+ 	color: #BAB828;
+ 	font-weight: 100;
+ 	font-size: 30px;
+ 	margin-left: 70px;
+ 	margin-top: 47px;
+}
+
+.footer {
+ 	background-color: #483D8B;
+ 	margin-top: 50px;
+ 	border-bottom: #483D8B solid 10px;
+ 	border-top: #483D8B solid 15px;
+}
+
+.footer li {
+ 	list-style-type: none; 
+ 	margin-left: 600px;
+}
+
+.footer ul {
+ 	display: inline-block;
+ 	padding: 0px;
+}
+
+.footer a {
+ 	color: #B2ABAF;
+ 	text-decoration: none;
+ 	font-family: Avantgarde, TeX Gyre Adventor,
+ 	 URW Gothic L, monospace;
+}
+
+.footer p {
+ 	margin-left: 795px;
+ 	margin-top: 0px;
+}
+
+/* Фильмы */
+
+.movie_article {
+ 	max-width: 520px;
+ 	height: 209px;
+ 	margin-top: 70px;
+ 	margin-left: 95px;
+ 	padding-bottom: 40px;
+}
+
+.movie_article p {
+ 	 margin: 0px;
+ 	color: black;
+}
+
+.movie_article img {
+ 	float: left;
+ 	padding-right: 10px;
+}
+
+.button {
+ 	background-color: #8D6CB0;
+ 	width: 100px;
+ 	height: 40px;
+ 	color: #fff;
+ 	border-radius: 5px;
+ 	border-color: #8D6CB0;
+ 	border-style: none;
+ 	font-size: 15px;
+ 	margin-left: 400px;
+ 	margin-top: 20px;
+}
+
+.button:hover {
+ 	background-color: #483D8B;
+}
+
+/* Contacts */
+
+.contacts{
+	margin-left: 40px;
+}
+
+.contacts form {
+	padding-bottom: 15px;
+}
+
+.contacts input {
+	width: 535px;
+	height: 30px;
+	font-size: 16px;
+	padding-left: 7px;
+	border: 1px solid #bdbdbd;
+
+}
+
+.contacts p {
+	word-spacing: -5px;
+	font-size: 19px;
+}
+
+.contacts textarea {
+	border: 1px solid #bdbdbd;
+}
+
+.movie_click_text p {
+	display: inline-block;
+}
