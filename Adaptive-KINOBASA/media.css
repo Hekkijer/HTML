@@ -1,0 +1,107 @@
+/* Для ноутбуков */
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+	h1 {
+		margin-left: 220px;
+	}
+
+	header p {
+		margin-left: 220px;
+	}
+
+	header li {
+		margin-right: 200px;
+	}
+
+	.container {
+		margin-left: 5%;
+		margin-right: 5%;
+
+	}
+
+	.footer li {
+		text-align: center;
+		margin-left: 0px;
+	}
+
+	.footer p {
+		text-align: center;
+		margin-left: 0px;
+	}
+
+	.main_article {
+		margin-left: 15px;
+	}
+}
+/* Для планшетов */
+@media screen and (max-width: 991px) and (min-width: 768px) {
+	h1 {
+		margin-left: 25%;
+	}
+
+	header p {
+		margin-left: 25%;
+	}
+
+	header li {
+		margin-right: 0px;
+		text-align: center;
+	}
+
+	header ul {
+		padding-left: 4vw;
+	}
+
+	.container {
+		width: 730px;
+		margin-left: 0px;
+	}
+
+	.main_article {
+		margin-left: 80px;
+	}
+
+	.sidebar {
+		margin-right: 214px;
+	}
+
+	.footer li {
+		text-align: center;
+		margin-left: 0px;
+	}
+
+	.footer p {
+		text-align: center;
+		margin-left: 0px;
+	}
+}
+
+/* Для маленьких планшетов */
+@media screen and (max-width: 767px) and (min-width: 576px) {
+	body {
+		background-color: lightblue;
+	}
+
+	h1 {
+		text-align: center;
+		margin-left: 0px;
+	}
+
+	header p {
+		text-align: center;
+		margin-left: 0px;
+	}
+
+	header li {
+		text-align: center;
+		margin-right: 0px;
+	}
+
+	header ul {
+		padding-left: 4vw;
+	}
+}
+
+/* Для телефонов */
+@media screen and (max-width: 575px) {
+	
+}
