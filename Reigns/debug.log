@@ -1,0 +1,19 @@
+[1213/172647.442:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files%20(x86)/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1213/183356.824:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1213/184237.637:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[1213/215608.578:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files%20(x86)/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1213/215608.727:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1213/222230.575:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[1214/190210.610:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files%20(x86)/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1214/191458.899:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1214/194420.701:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1214/201820.525:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
